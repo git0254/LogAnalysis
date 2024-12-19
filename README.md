@@ -6,7 +6,12 @@
 | Log2Graph         | 日志到图            | 项目3             | [Krystal](https://github.com/xinguohua/Krystal)   |
 | ThreatReort2Graph | 威胁报告到图        | 项目4             | ToDo     |
 |                   |                     | 项目5             | ToDo     |
-| GraphSearch       | 图匹配              | 项目6             | [ProvG-Searcher](https://github.com/xinguohua/ProvG-Searcher)     |
+| GraphSearch       | 图匹配              | Baseline ProvG-Searcher | [ProvG-Searcher](https://github.com/xinguohua/ProvG-Searcher)     |
+|                   |                    | Baseline DeepHunter|     |
+|                   |                    | Baseline Poirot|    |
+|                   |                    | Baseline SimGNN| [SimGNN]([https://github.com/xinguohua/ProvG-Searcher](https://github.com/xinguohua/SimGNN?tab=readme-ov-file)    |
+|                   |                    | Baseline Graph Matching Network| [Graph Matching Network](https://github.com/xinguohua/GMN) |
+|                   |                    | 类似 Crosslingula [Crosslingula](https://github.com/xinguohua/Crosslingula-KG-Matching) |
 | GraphClassification | 图分类            | 项目7             | ToDo     |
 |                   |                     | 项目8             | ToDo     |
 
