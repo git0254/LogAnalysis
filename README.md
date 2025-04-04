@@ -2,7 +2,7 @@
 | Pipeline          | Function            | Project           | Link     |
 |-------------------|---------------------|-------------------|----------|
 | DataSet           | 日志数据集          | 处理大批量数据工具     | [jar包](https://github.com/xinguohua/ta3-java-consumer)     |
-|                   |                     | 项目2             | ToDo     |
+|                   |                     | 分析日志            | [分析日志](https://github.com/xinguohua/pythonProject)    |
 | Log2Graph         | 日志到图            | 项目3             | [Krystal](https://github.com/xinguohua/Krystal)   |
 | ThreatReort2Graph | 威胁报告到图        | 项目4             | ToDo     |
 |                   |                     | 项目5             | ToDo     |
