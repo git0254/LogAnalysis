@@ -13,8 +13,8 @@
 |                   |                    | Baseline SimGNN| [SimGNN](https://github.com/xinguohua/SimGNN?tab=readme-ov-file)    |
 |                   |                    | Baseline Graph Matching Network| [Graph Matching Network](https://github.com/xinguohua/GMN) |
 |                   |                    | 类似 Crosslingula | [Crosslingula](https://github.com/xinguohua/Crosslingula-KG-Matching) |
-| GraphClassification | 图分类            | 项目7             | ToDo     |
-|                   |                     | 项目8             | ToDo     |
-
+| GraphClassification | 图分类            | Baseline Unicorn             | [Unicorn](https://github.com/crimson-unicorn)     |
+|                   |                     | Baseline ThreaTrace             | [ThreaTrace](https://github.com/threaTrace-detector/threaTrace/)     |
+|                   |                     | Baseline MAGIC             | [[MAGIC](https://github.com/FDUDSDE/MAGIC)     |
 
 
