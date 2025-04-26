@@ -16,5 +16,6 @@
 | GraphClassification | 图分类            | Baseline Unicorn             | [Unicorn](https://github.com/crimson-unicorn)     |
 |                   |                     | Baseline ThreaTrace             | [ThreaTrace](https://github.com/threaTrace-detector/threaTrace/)     |
 |                   |                     | Baseline MAGIC             | [MAGIC](https://github.com/FDUDSDE/MAGIC)     |
+|                   |                     | GOG参考代码             | [ImbGNN](https://github.com/Xiaovy/ImbGNN))     |
 
 
