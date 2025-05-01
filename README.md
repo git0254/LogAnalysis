@@ -4,9 +4,8 @@
 | DataSet           | 日志数据集          | 处理大批量数据工具     | [jar包](https://github.com/xinguohua/ta3-java-consumer)     |
 |                   |                     | 分析日志            | [分析日志](https://github.com/xinguohua/pythonProject)    |
 |                   |                     | 分析日志            | [ATLAS](https://github.com/xinguohua/ATLAS)    |
-| feature           | 处理特征             | 处理特征     | [FLASH](https://github.com/DART-Laboratory/Flash-IDS)     |
-|                   |                     | 分析日志            | [分析日志](https://github.com/xinguohua/pythonProject)    |
-|                   |                     | 分析日志            | [ATLAS](https://github.com/xinguohua/ATLAS)    |
+| feature           | 处理特征             | FLASH     | [FLASH](https://github.com/DART-Laboratory/Flash-IDS)     |
+|                   |                     | kairos            | [kairos]([https://github.com/xinguohua/pythonProject](https://github.com/ubc-provenance/kairos/blob/main/DARPA/THEIA_E3/theia3_datapreprocess.ipynb))    |
 | Log2Graph         | 日志到图            | 项目3             | [Krystal](https://github.com/xinguohua/Krystal)   |
 | ThreatReort2Graph | 威胁报告到图        | 项目4             | ToDo     |
 |                   |                     | 项目5             | ToDo     |
